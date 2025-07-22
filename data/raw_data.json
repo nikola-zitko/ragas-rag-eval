@@ -1,0 +1,11 @@
+[
+  {
+    "question": "What is the capital of France?",
+    "ground_truth": "Paris",
+    "contexts": [
+      "Paris is the capital city of France.",
+      "France is located in Europe."
+    ],
+    "answer": "Paris is the capital of France."
+  }
+]
