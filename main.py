@@ -15,9 +15,9 @@ def main():
 
     print("📊 Running Ragas evaluation...")
     results_df = evaluate_with_metrics(dataset)
+
     print("\n✅ Ragas Results:")
     print(results_df.to_markdown(index=False))
-
 
 if __name__ == "__main__":
     main()
